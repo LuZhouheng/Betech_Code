@@ -53,7 +53,7 @@ void ofApp::draw(){
     ofBackgroundGradient(ofColor(90, 90, 90), ofColor(30, 30, 30),  OF_GRADIENT_BAR);
     
     ofSetColor(200);
-    ofDrawBitmapString("ofxLeapMotion - Example App\nLeap Connected? " + ofToString(leap.isConnected()), 20, 20);
+    ofDrawBitmapString("ofxLeapMotion Example App\nLeap Connected? " + ofToString(leap.isConnected()), 20, 20);
     
     cam.begin();
     
