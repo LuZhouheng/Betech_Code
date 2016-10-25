@@ -28,3 +28,9 @@ Some OpenFrameworks Example Written During the Internship of Betech Digital CO,.
 		![fingerDis](http://7xrims.com1.z0.glb.clouddn.com/BeTech/fingerDis.gif)
 
 		![coutFingerDis](http://7xrims.com1.z0.glb.clouddn.com/BeTech/coutFingerDis.gif)
+		
+4. 20161025_ofxLeapMotionGestureMap
+	* Addon: [ofxLeapMotion2](https://github.com/genekogan/ofxLeapMotion2)
+
+		![LeapMotionGestureMap](http://7xrims.com1.z0.glb.clouddn.com/BeTech/LeapMotionGestureMap.gif)
+
