@@ -40,3 +40,7 @@ Some OpenFrameworks Example Written During the Internship of Betech Digital CO,.
 6. 20161028_oops
 	* Example for ofBook's OOPs! chapter & translate comment to chinese.
 
+7. 20161110_moveTracker
+	* Example for making diff pixels to black or white.
+		
+		![moveTracker](http://7xrims.com1.z0.glb.clouddn.com/BeTech/20161110_moveTracker01.gif)
