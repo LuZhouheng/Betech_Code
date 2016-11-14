@@ -13,26 +13,26 @@ Some OpenFrameworks Example Written During the Internship of Betech Digital CO,.
 1. 20161020_ofxLeapMotion2
 	* Addon: [ofxLeapMotion2](https://github.com/genekogan/ofxLeapMotion2)
 
-		![ofxLeapMotionV2Test](http://7xrims.com1.z0.glb.clouddn.com/BeTech/LeapMotionTest.gif)
+		![ofxLeapMotionV2Test](README_Images/LeapMotionTest.gif)
 
 
 2. 20161021_ofxLeapMotionParticles
 	* Addon: [ofxLeapMotion2](https://github.com/genekogan/ofxLeapMotion2)
 		
-		![Leap_Motion_Particles](http://7xrims.com1.z0.glb.clouddn.com/BeTech/LeapMotionParticles.gif)
+		![Leap_Motion_Particles](README_Images/LeapMotionParticles.gif)
 	
 
 3. 20161024_ofxLeapMotionGesture
 	* Addon: [ofxLeapMotion2](https://github.com/genekogan/ofxLeapMotion2)
 
-		![fingerDis](http://7xrims.com1.z0.glb.clouddn.com/BeTech/fingerDis.gif)
+		![fingerDis](README_Images/fingerDis.gif)
 
-		![coutFingerDis](http://7xrims.com1.z0.glb.clouddn.com/BeTech/coutFingerDis.gif)
+		![coutFingerDis](README_Images/coutFingerDis.gif)
 		
 4. 20161025_ofxLeapMotionGestureMap
 	* Addon: [ofxLeapMotion2](https://github.com/genekogan/ofxLeapMotion2)
 
-		![LeapMotionGestureMap](http://7xrims.com1.z0.glb.clouddn.com/BeTech/LeapMotionGestureMap.gif)
+		![LeapMotionGestureMap](README_Images/LeapMotionGestureMap.gif)
 		
 5. 20161027_oops
 	* Example for ofBook's OOPs! chapter & translate comment to chinese.
@@ -43,11 +43,11 @@ Some OpenFrameworks Example Written During the Internship of Betech Digital CO,.
 7. 20161110_moveTracker
 	* Example for making diff pixels to black or white.
 		
-		![moveTracker](http://7xrims.com1.z0.glb.clouddn.com/BeTech/20161110_moveTracker01.gif)
+		![moveTracker](README_Images/20161110_moveTracker01.gif)
 		
 8. 20161110_moveTrackerUsingOpenCV
 	* Example for making diff pixels to black or white using OpenCV.
 
-		![moveTracker](http://7xrims.com1.z0.glb.clouddn.com/BeTech/20161110_moveTrackerUsingOpenCV01.gif)
+		![moveTracker](README_Images/20161110_moveTrackerUsingOpenCV01.gif)
 		
-		![moveTracker](http://7xrims.com1.z0.glb.clouddn.com/BeTech/20161110_moveTrackerUsingOpenCV02.gif)
+		![moveTracker](README_Images/20161110_moveTrackerUsingOpenCV02.gif)
