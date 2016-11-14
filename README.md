@@ -44,3 +44,10 @@ Some OpenFrameworks Example Written During the Internship of Betech Digital CO,.
 	* Example for making diff pixels to black or white.
 		
 		![moveTracker](http://7xrims.com1.z0.glb.clouddn.com/BeTech/20161110_moveTracker01.gif)
+		
+8. 20161110_moveTrackerUsingOpenCV
+	* Example for making diff pixels to black or white using OpenCV.
+
+		![moveTracker](http://7xrims.com1.z0.glb.clouddn.com/BeTech/20161110_moveTrackerUsingOpenCV01.gif)
+		
+		![moveTracker](http://7xrims.com1.z0.glb.clouddn.com/BeTech/20161110_moveTrackerUsingOpenCV02.gif)
