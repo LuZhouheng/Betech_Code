@@ -8,7 +8,7 @@ Some OpenFrameworks Example Written During the Internship of Betech Digital CO,.
 * Xcode 7.2.1
 * OpenFrameworks 0.9.3 release
 
-## Projects' Requirement
+## Projects' Requirement & Preview
 
 1. 20161020_ofxLeapMotion2
 	* Addon: [ofxLeapMotion2](https://github.com/genekogan/ofxLeapMotion2)
