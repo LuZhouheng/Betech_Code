@@ -60,3 +60,9 @@ Some OpenFrameworks Example Written During the Internship of Betech Digital CO,.
 
 		![moveTracker&OpenCV&CountWhitePixels](README_Images/20161114_WhitePixelsCounter.gif)
 	
+10. 20161114_blobsAnalysis
+	* Example for making diff pixels to black or white using OpenCV.
+	* Added white pixels counting feature.
+	* Added blobs analysis using ofxOpenCv function: ofxCvContourFinder.
+		
+		![moveTracker&OpenCV&CountWhitePixels&BlobsAnalysis](README_Images/20161114_BlobsAnalysisDebug.gif)
