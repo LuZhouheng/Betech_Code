@@ -74,4 +74,8 @@ Some OpenFrameworks Example Written During the Internship of Betech Digital CO,.
 
 		![moveTracker&OpenCV&CountWhitePixels&BlobsAnalysis](README_Images/20161114_BlobsAnalysisBgSelect.gif)
 		
-		
+12. 20161115_opencvHaarFinder
+	* Example for making face tracking
+
+		![moveTracker&OpenCV&CountWhitePixels&BlobsAnalysis](README_Images/20161115_opencvHaarFinder.gif)
+
