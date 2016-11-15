@@ -8,6 +8,12 @@ Some OpenFrameworks Example Written During the Internship of Betech Digital CO,.
 * Xcode 7.2.1
 * OpenFrameworks 0.9.3 release
 
+**Note**: DevEnv changed from 20161115_opencvHaarFinder & later
+
+* OSX 10.11.6
+* Xcode 7.2.1
+* OpenFrameworks 0.9.7 release
+
 ## Projects' Requirement & Preview
 
 1. 20161020_ofxLeapMotion2
@@ -48,34 +54,39 @@ Some OpenFrameworks Example Written During the Internship of Betech Digital CO,.
 		![moveTracker](README_Images/20161110_moveTracker02.gif)
 		
 8. 20161110_moveTrackerUsingOpenCV
-	* Example for making diff pixels to black or white using OpenCV.
+	* ofxCv
+	* ofxOpenCv
+	* ofxGui
 
 		![moveTracker&OpenCV](README_Images/20161110_moveTrackerUsingOpenCV01.gif)
 		
 		![moveTracker&OpenCV](README_Images/20161110_moveTrackerUsingOpenCV02.gif)
 			
 9. 20161114_WhitePixelsCounter
-	* Example for making diff pixels to black or white using OpenCV.
-	* Added white pixels counting feature.
+	* ofxCv
+	* ofxOpenCv
+	* ofxGui
 
 		![moveTracker&OpenCV&CountWhitePixels](README_Images/20161114_WhitePixelsCounter.gif)
 	
 10. 20161114_blobsAnalysis
-	* Example for making diff pixels to black or white using OpenCV.
-	* Added white pixels counting feature.
-	* Added blobs analysis using ofxOpenCv function: ofxCvContourFinder.
+	* ofxCv
+	* ofxOpenCv
+	* ofxGui
 		
 		![moveTracker&OpenCV&CountWhitePixels&BlobsAnalysis](README_Images/20161114_BlobsAnalysisDebug.gif)
 		
 11. 20161114_blobsAnalysisBgSelect
-	* Example for making diff pixels to black or white using OpenCV.
-	* Added white pixels counting feature.
-	* Added blobs analysis using ofxOpenCv function: ofxCvContourFinder.
+	* ofxCv
+	* ofxOpenCv
+	* ofxGui
 
 		![moveTracker&OpenCV&CountWhitePixels&BlobsAnalysis](README_Images/20161114_BlobsAnalysisBgSelect.gif)
 		
 12. 20161115_opencvHaarFinder
-	* Example for making face tracking
+	* ofxCv
+	* ofxOpenCv
+	* ofxGui
 
 		![moveTracker&OpenCV&CountWhitePixels&BlobsAnalysis](README_Images/20161115_opencvHaarFinder.gif)
 
